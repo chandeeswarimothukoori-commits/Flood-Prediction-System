@@ -148,7 +148,7 @@ http://127.0.0.1:5000
 
 ## Author
 
-**Medha Prakash**
+**Chandeeswari Mothukoori**
 
 B.Tech – Computer Science Engineering
 
